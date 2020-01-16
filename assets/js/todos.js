@@ -29,3 +29,5 @@ $("input[type='text']").keypress(function(event){
 $("#toggleTextInput").click(function(){
     $("input[type='text']").fadeToggle();
 });
+
+// https://github.com/mrivasperez/
