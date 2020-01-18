@@ -7,7 +7,7 @@ myTasks is a simple, easy to use, and dynamic "web application" that a user can 
 ## Installation
 This web app can be used using the live demo at <https://mrivasperez.github.io/myTasks/> or by downloading the repo as a zip file. To use the web app, create a new folder in your system then drag and drop the contents of the zip file to that folder. Double click "index.html" in the new folder to open and begin to use the web app.
 
-## How to use
+## How to Use
 When the user uses the web app, they are greeted with a gradient background and a floating box with with the header "DAILY TASKS", an input field box with placeholder text "Add New Task," and a button on the top right corner of the box that is an icon with a pencil in it. 
 
 ### Adding tasks
