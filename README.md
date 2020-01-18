@@ -1,6 +1,9 @@
 # myTasks: A simple daily task manager.
 by mrivasperez. live demo: <https://mrivasperez.github.io/myTasks/>
 
+## Screenshot
+![myTasks open on Chrome](screenshot.png)
+
 ## Description
 myTasks is a simple, easy to use, and dynamic "web application" that a user can utilize to keep track of their daily tasks. I developed myTasks using HTML, CSS, and jQuery 3.4.1 (compressed, production). I hope that the comments included in assets/js/todos.js will be helpful for others to learn jQuery and understand it's ease of use in creating similar web apps and services.
 
